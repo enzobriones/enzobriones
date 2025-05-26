@@ -1,16 +1,66 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Enzo Briones
 
-<!--
-**enzobriones/enzobriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+Apasionado por crear soluciones web completas y escalables. Me especializo en desarrollo tanto del frontend como del backend, con un enfoque en tecnologías modernas y mejores prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+#### Frontend
+- **React** & **Next.js** - Desarrollo de interfaces modernas y performantes
+- **TypeScript** - Código más robusto y mantenible
+- **HTML5** & **CSS3** - Fundamentos sólidos del desarrollo web
+
+#### Backend
+- **Node.js** - Runtime de JavaScript del lado del servidor
+- **NestJS** - Framework robusto para aplicaciones escalables
+- **Spring Boot** - Desarrollo empresarial con Java
+- **Django** - Framework web de Python para desarrollo rápido
+
+#### Bases de Datos
+- **PostgreSQL** - Base de datos relacional robusta
+- **MongoDB** - Base de datos NoSQL flexible
+
+### 🛠️ Herramientas y Tecnologías
+
+```javascript
+const skills = {
+  frontend: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
+  backend: ['Node.js', 'NestJS', 'Spring Boot', 'Django', 'REST APIs', 'GraphQL'],
+  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+  tools: ['Git', 'Docker', 'AWS', 'Vercel', 'Postman'],
+  testing: ['Jest', 'JUnit'],
+  others: ['Linux', 'Nginx', 'CI/CD']
+}
+```
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark&hide_border=true)
+
+### 🔭 En lo que estoy trabajando
+
+- Desarrollando aplicaciones web full stack con React y Next.js
+- Explorando arquitecturas de microservicios
+- Mejorando en DevOps y deployment automatizado
+- Contribuyendo a proyectos open source
+
+### 🌱 Aprendiendo actualmente
+
+- Arquitecturas serverless
+- Optimización de rendimiento web
+- Nuevas funcionalidades de React y Next.js
+- Patrones de diseño avanzados
+
+### 📫 ¿Cómo contactarme?
+- 📧 Email: enzobfriz@gmail.com
+
+---
+
+*"El código es poesía en movimiento"* ✨
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square)
+
+---
