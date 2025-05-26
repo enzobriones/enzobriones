@@ -34,12 +34,6 @@ const skills = {
 }
 ```
 
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark&hide_border=true)
-
 ### 🔭 En lo que estoy trabajando
 
 - Desarrollando aplicaciones web full stack con React y Next.js
